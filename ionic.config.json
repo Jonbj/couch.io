@@ -1,0 +1,7 @@
+{
+  "name": "couch.io",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
